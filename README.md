@@ -1,4 +1,4 @@
-### Hello, Human! <img src="https://user-images.githubusercontent.com/9534435/133339986-c290d985-00bc-4733-886d-8c87d68bbc74.gif" width="25px">
+### Hello, Friend! <img src="https://user-images.githubusercontent.com/9534435/133339986-c290d985-00bc-4733-886d-8c87d68bbc74.gif" width="25px">
 
 I'm Ilias, Fullstack developer from **Montréal** :canada: currently providing hospitality everywhere with [Sonder](https://www.sonder.com/)
 
