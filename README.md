@@ -1,6 +1,6 @@
 ### Hello, Friend! <img src="https://user-images.githubusercontent.com/9534435/133339986-c290d985-00bc-4733-886d-8c87d68bbc74.gif" width="25px">
 
-I'm Ilias, Fullstack developer from **Montréal** :canada: currently providing hospitality everywhere with [Sonder](https://www.sonder.com/)
+I'm Ilias, Fullstack developer from **Montréal** :canada: &nbsp; Proudly helped [Sonder](https://www.sonder.com/) provide hospitality everywhere
 
 :muscle: [Starting Strength](https://startingstrength.com/) cultist<br>
 :guitar: Guitar hobbyist. I like to cover [Billy Talent](https://www.youtube.com/watch?v=9BXNKyoW_Ow)<br>
