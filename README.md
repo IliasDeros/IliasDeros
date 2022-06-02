@@ -5,7 +5,7 @@ I'm Ilias, Fullstack developer from **Montréal** :canada: &nbsp; Currently help
 :muscle: [Starting Strength](https://startingstrength.com/) cultist<br>
 :guitar: Guitar hobbyist. I like to cover [Billy Talent](https://www.youtube.com/watch?v=9BXNKyoW_Ow)<br>
 :moneybag: Newbie investor. Scared of crypto as an asset<br>
-:game_die: My favorite board game is [Coup](https://coup.fandom.com/wiki/Coup:_The_Card_Game_Wiki)
+:game_die: My favorite board game is [Coup](https://board-games-galore.fandom.com/wiki/Coup)
 
 #### How I Code
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
